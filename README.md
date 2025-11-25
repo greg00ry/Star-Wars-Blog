@@ -1,8 +1,14 @@
 Star Wars Blog
+
 -JavaScript
+
 -CSS
+
 -HTML
+
 -SWAPI
+
+
 
 -strona głowna w stylu napisów poczatkowych z filmow sagi SW. (HTML, CSS)
 
